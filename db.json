@@ -1,7 +1,9 @@
-[
-  {
-    "id": 1,
-    "frase": "Seja Feliz",
-    "horario": "10:00"
-  }
-]
+{
+  "mensagens": [
+    {
+      "id": 1,
+      "frase": "Seja Feliz",
+      "horario": "10:00"
+    }
+  ]
+}
